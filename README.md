@@ -2,7 +2,7 @@
 
 ![Capture](https://user-images.githubusercontent.com/29562020/134182163-b900dd87-47c9-44af-bfaa-e890365a69ac.PNG)
 
-Hey! Here lies the project that i have worked on before when i was an intern.
+Hey! Here is the project that I have worked on before when i was an intern.
 
 ## Using CodeIgniter4 as the framework
 
