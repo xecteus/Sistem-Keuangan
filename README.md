@@ -1,6 +1,10 @@
-# CodeIgniter 4 Application Starter
+# Sistem Keuangan
 
-## What is CodeIgniter?
+![Capture](https://user-images.githubusercontent.com/29562020/134182163-b900dd87-47c9-44af-bfaa-e890365a69ac.PNG)
+
+Internship Project
+
+## Using CodeIgniter4 as the framework
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible, and secure. 
 More information can be found at the [official site](http://codeigniter.com).
